@@ -14,7 +14,6 @@ Please enter each folder to see detailed instructions on how to run each experim
 
 
 ### Citation
----------
 If you find this repo helpful, please cite the following paper:
 
 ```
