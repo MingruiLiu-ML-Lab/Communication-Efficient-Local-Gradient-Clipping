@@ -1,4 +1,4 @@
-# Communication-Efficient-Local-Gradient-Clipping
+# A Communication-Efficient Distributed Gradient Clipping Algorithm for Training Deep Neural Networks
 
 This repository contains PyTorch codes for the experiments on deep learning in the paper:
 
