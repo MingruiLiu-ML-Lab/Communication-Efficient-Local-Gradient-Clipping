@@ -11,3 +11,18 @@ In distributed training of deep neural networks, people usually run Stochastic G
 
 ### Usage
 Please enter each folder to see detailed instructions on how to run each experiment.
+
+
+### Citation
+---------
+If you find this repo helpful, please cite the following paper:
+
+```
+@inproceedings{liu2022communication,
+  title={A Communication-Efficient Distributed Gradient Clipping Algorithm for Training Deep Neural Networks},
+  author={Liu, Mingrui and Zhuang, Zhenxun and Lei, Yunwei and Liao, Chunyang},
+  booktitle = {Advances in Neural Information Processing Systems 35 (NeurIPS)},
+  year={2022}
+}
+
+```
