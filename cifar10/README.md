@@ -1,3 +1,5 @@
+## Image classfication experiments on CIFAR-10
+
 1. run `cd scripts`
 2. change `<path-to-your-folder>`, e.g., `/projects/xyz/`
 3. load modules including python, pytorch, and cuda
